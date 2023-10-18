@@ -4,11 +4,11 @@ Welcome to the Ontop Automation Exercise, a Java-based automation framework usin
 
 ## Table of Contents
 
-- [Project Structure](#Project Structure)
+- [Project Structure](#Project-Structure)
 - [Features](#Features)
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
-- [Test Execution](#Test Execution)
+- [Test Execution](#Test-Execution)
 
 ## Project Structure
 
