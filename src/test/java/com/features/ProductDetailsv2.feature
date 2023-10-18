@@ -1,6 +1,6 @@
 ##Added a second feature file just to test parallel execution
 
-@ProductDetails @OnTop
+@ProductDetails @Ontop
 Feature: Product Details
   Validate the details page for a product
 

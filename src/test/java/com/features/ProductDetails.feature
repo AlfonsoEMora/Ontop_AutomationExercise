@@ -1,4 +1,4 @@
-@ProductDetails @OnTop
+@ProductDetails @Ontop
 Feature: Product Details
   Validate the details page for a product
 
